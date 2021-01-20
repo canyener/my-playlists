@@ -5,7 +5,7 @@
   "dependencies": {
     "@loadable/component": "^5.14.1",
     "axios": "^0.21.1",
-    "enzyme-adapter-react-16": "^1.15.5",
+    "enzyme-adapter-react-16": "^1.15.6",
     "history": "^5.0.0",
     "node-sass": "^5.0.0",
     "react": "^16.14.0",
