@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@loadable/component": "^5.14.1",
+    "@loadable/component": "^5.15.0",
     "axios": "^0.21.1",
     "enzyme-adapter-react-16": "^1.15.6",
     "history": "^5.0.0",
