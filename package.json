@@ -7,7 +7,7 @@
     "axios": "^0.21.1",
     "enzyme-adapter-react-16": "^1.15.6",
     "history": "^5.0.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-redux": "^7.2.4",
